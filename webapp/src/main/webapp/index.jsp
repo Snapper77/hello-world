@@ -1,4 +1,5 @@
 <h1>EDIT FOR DOCKER CONTAINER</h1>
+<h2>Update auto build image</h2>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
